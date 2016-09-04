@@ -23,6 +23,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: G+ page
+    url: 'https://plus.google.com/u/0/+netnotix'
+    type: external
 favicon: null
 title: netnotix
 description: is testing the grid
