@@ -1,19 +1,4 @@
-name: null
-favicon: null
-layout_spectrum: 0.63308
 typography_spectrum: 0.60765
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#00226c'
@@ -24,7 +9,20 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
-purpose:
-  - name: awareness
-    item: null
-    url: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.63308
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: netnotix
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: netnotix - it solutions
+purpose: []
